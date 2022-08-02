@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.player{
+    border: 1px solid red;
+    width: 45%;
+    height: 40vh;
+    padding: 30px;
+    display: block;
+    overflow-y: scroll;
+}

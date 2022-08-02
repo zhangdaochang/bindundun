@@ -1,0 +1,1 @@
+{"version":3,"sources":["player.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"player.ba52a1b8.css","sourceRoot":"..","sourcesContent":["span{\r\n    display: block;\r\n    width: 100%;\r\n    text-align: center;\r\n    border: 1px solid red;\r\n}"]}
